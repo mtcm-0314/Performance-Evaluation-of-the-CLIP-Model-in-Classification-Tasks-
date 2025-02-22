@@ -1,2 +1,4 @@
-# Performance-Evaluation-of-the-CLIP-Model-in-Classification-Tasks-
-The code of paper :Performance Evaluation of the CLIP Model in Classification Tasks
+# PerceptualHashAlgorithm
+图片相似性对比的python实现
+
+代码包括均值哈希算法、感知哈希算法、差值哈希算法三种常见的对于图片相似性判别的代码实现
